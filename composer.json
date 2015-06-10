@@ -1,4 +1,5 @@
 {
+  "name": "php utils",
   "repositories": [
     {
       "type": "vcs",
