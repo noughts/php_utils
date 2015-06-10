@@ -1,13 +1,13 @@
 {
   "repositories": [
-    {   
+    {
       "type": "vcs",
       "url": "https://github.com/noughts/php_utils"
-    }   
-  ],  
+    }
+  ],
   "autoload": {
-      "psr-4": {
-          "Noughts\\Utils\\": "src/"
-      },
-  },
+    "psr-4": {
+      "Noughts\\Utils\\": "src/"
+    }
+  }
 }
